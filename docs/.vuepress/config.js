@@ -1,10 +1,10 @@
 module.exports = {
     title: '文集',
-    base: 'https://mengze-han.github.io/vue_blog/',
+    base: '/vue_blog/',
     description: '随笔写作，记录感悟',
     themeConfig: {
         logo: '/assets/logo/tf.png',
-        repo: 'vuejs/vuepress',
+        repo: 'https://mengze-han.github.io/vue_blog/',
         repoLabel: '查看源码',
         // 假如你的文档仓库和项目本身不在一个仓库：
         docsRepo: 'vuejs/vuepress',
