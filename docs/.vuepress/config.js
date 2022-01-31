@@ -1,5 +1,6 @@
 module.exports = {
     title: '文集',
+    base: 'https://mengze-han.github.io/vue_blog/',
     description: '随笔写作，记录感悟',
     themeConfig: {
         logo: '/assets/logo/tf.png',
