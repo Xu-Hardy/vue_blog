@@ -45,7 +45,6 @@ module.exports = {
             { text: 'linux', link: '/linux/' },
             { text: 'AI', link: '/python/' },
           ] },
-          { text: 'Github', link: 'https://mengze-han.github.io/vue_blog/' },
         ],
         // sidebar: 'auto',
         sidebar: {
@@ -54,12 +53,7 @@ module.exports = {
             '1',  /* /foo/one.html */
             '2'   /* /foo/two.html */
           ],
-          // '/bar/': [
-          //   '',      /* /bar/ */
-          //   'three', /* /bar/three.html */
-          //   'four'   /* /bar/four.html */
-          // ],
-    
+
          // fallback
           '/': [
             '',        /* / */
