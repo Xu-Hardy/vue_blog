@@ -1,10 +1,10 @@
 ---
 home: true
 heroImage: '/assets/logo/tf.png'
-heroText: 看见成长的自己
-tagline: 从开始到现在
+heroText: 从开始到现在
+tagline: 看见成长的自己
 actionText: get start →
-actionLink: /python/1
+actionLink: /start
 features:
 - title: FULL-STACK
   details: 全栈 + 深度学习 + 硬件 + 网工 + 运维

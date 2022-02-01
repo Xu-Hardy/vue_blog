@@ -9,7 +9,9 @@ module.exports = {
         repoLabel: 'Github',
         smoothScroll: true,
         nav: [
+          { text: 'Blog', link:'https://mengze-han.github.io/'},
           { text: 'Home', link: '/' },
+          { text: 'About', link: '/about'},
           {
             text: '技术',
             items: [
@@ -41,19 +43,17 @@ module.exports = {
             ] 
           },
           { text: 'GEEK', items: [
-            { text: 'python', link: '/python/' },
-            { text: 'linux', link: '/linux/' },
+            { text: '装机', link: '/computer/' },
+            { text: 'DIY', link: '/diy/' },
             { text: 'AI', link: '/python/' },
           ] },
         ],
-        // sidebar: 'auto',
         sidebar: {
           '/Python/': [
             '',     /* /foo/ */
             '1',  /* /foo/one.html */
             '2'   /* /foo/two.html */
           ],
-
          // fallback
           '/': [
             '',        /* / */
@@ -61,5 +61,5 @@ module.exports = {
             'about'    /* /about.html */
           ]
         }
-      },
-  }
+      },  
+    }
