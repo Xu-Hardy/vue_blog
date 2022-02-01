@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
           
-      # 部署到 GitHub Pages
+      # 部署到 GitHub markdown BOOK
       - name: Deploy markdown Book
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
