@@ -1,41 +1,71 @@
 module.exports = {
-    title: '文集',
+    lang: 'zh-CN',
+    title: '看见成长的自己',
     base: '/vue_blog/',
     description: '随笔写作，记录感悟',
     themeConfig: {
         logo: '/assets/logo/tf.png',
-        repo: 'https://mengze-han.github.io/vue_blog/',
-        repoLabel: '查看源码',
-        // 假如你的文档仓库和项目本身不在一个仓库：
-        docsRepo: 'vuejs/vuepress',
-        // 假如文档不是放在仓库的根目录下：
-        docsDir: 'docs',
-        // 假如文档放在一个特定的分支下：
-        docsBranch: 'master',
-        // 默认是 false, 设置为 true 来启用
-        editLinks: true,
-        // 默认为 "Edit this page"
-        editLinkText: '帮助我们改善此页面！',
+        repo: 'mengze-han/vue_blog/',
+        repoLabel: 'Github',
         smoothScroll: true,
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Guide', link: '/guide/' },
-          { text: 'External', link: 'https://google.com' },
+          {
+            text: '技术',
+            items: [
+              { 
+                text: '开发', items: [
+                { text: 'python', link: '/python/' },
+                { text: 'c++', link: '/linux/' },
+                { text: 'AI', link: '/python/' },
+                ] 
+              },
+                { text: '运维', items: [
+                { text: 'Linux', link: '/python/' },
+                { text: 'linux', link: '/linux/' },
+                { text: 'AI', link: '/python/' },
+                ] 
+              },
+              { text: 'AI', items: [
+                { text: '深度学习', link: '/python/' },
+                { text: 'linux', link: '/linux/' },
+                { text: 'AI', link: '/python/' },
+                ] 
+            }
+            ]
+          },
+            { text: '随笔', items: [
+            { text: 'python', link: '/python/' },
+            { text: 'linux', link: '/linux/' },
+            { text: 'AI', link: '/python/' },
+            ] 
+          },
+          { text: 'GEEK', items: [
+            { text: 'python', link: '/python/' },
+            { text: 'linux', link: '/linux/' },
+            { text: 'AI', link: '/python/' },
+          ] },
+          { text: 'Github', link: 'https://mengze-han.github.io/vue_blog/' },
         ],
-        sidebar: 'auto',
-        // sidebar: {
-        //     '/python/': [
-        //       '',     /* /foo/ */
-        //       '1',  /* /foo/one.html */
-        //       '2'   /* /foo/two.html */
-        //     ],
-        //     // fallback
-        //     '/': [
-        //       '',        /* / */
-        //       'confif', /* /contact.html */
-        //       'about'    /* /about.html */
-        //     ]
-        //   },
-        // displayAllHeaders: true // 默认值：false
+        // sidebar: 'auto',
+        sidebar: {
+          '/Python/': [
+            '',     /* /foo/ */
+            '1',  /* /foo/one.html */
+            '2'   /* /foo/two.html */
+          ],
+          // '/bar/': [
+          //   '',      /* /bar/ */
+          //   'three', /* /bar/three.html */
+          //   'four'   /* /bar/four.html */
+          // ],
+    
+         // fallback
+          '/': [
+            '',        /* / */
+            // 'contact', /* /contact.html */
+            'about'    /* /about.html */
+          ]
+        }
       },
   }
