@@ -3,7 +3,7 @@ home: true
 heroImage: '/assets/logo/tf.png'
 heroText: 从开始到现在
 tagline: 看见成长的自己
-actionText: get start →
+actionText: Get Start →
 actionLink: /start
 features:
 - title: FULL-STACK
@@ -12,5 +12,5 @@ features:
   details: 不同时期的感悟随笔。
 - title: GEEK
   details: 折腾各种好玩的
-footer: MIT Licensed | Copyright © 2018-present https://github.com/mengze-han
+footer: MIT Licensed | Copyright © 2018-present
 ---

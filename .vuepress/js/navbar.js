@@ -1,7 +1,7 @@
 module.exports = {
     nav: [
           { text: 'Blog', link:'https://mengze-han.github.io/'},
-          { text: 'Home', link: '/' },
+          { text: 'HomePage', link:'/start'},
           { text: 'About', link: '/about'},
           {
             text: '技术',
