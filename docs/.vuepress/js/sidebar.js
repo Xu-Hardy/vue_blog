@@ -3,7 +3,8 @@ module.exports = {
         '/Python/': [
           '',     /* /foo/ */
           '1',  /* /foo/one.html */
-          '2'   /* /foo/two.html */
+          '2',   /* /foo/two.html */
+          '1'
         ],
        // fallback
         '/': [
