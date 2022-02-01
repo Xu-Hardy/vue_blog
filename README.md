@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: '/assets/logo/tf.png'
-heroText: 啥折腾的全栈博客
+heroText: 啥都折腾的全栈博客
 tagline: 看见成长的自己
 actionText: Get Start →
 actionLink: /start
