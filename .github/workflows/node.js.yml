@@ -17,13 +17,21 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+          
+      # 部署到 GitHub Pages
+      - name: Deploy markdown Book
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: source-book
+          FOLDER: docs/
 
       # 生成静态文件
       - name: Build
         run: npm install && npm run build
 
       # 部署到 GitHub Pages
-      - name: Deploy
+      - name: Deploy Pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
