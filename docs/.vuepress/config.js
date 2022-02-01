@@ -37,7 +37,7 @@ module.exports = {
             ]
           },
             { text: '随笔', items: [
-            { text: 'python', link: '/python/' },
+            { text: 'Essay', link: '/Essay/' },
             { text: 'linux', link: '/linux/' },
             { text: 'AI', link: '/python/' },
             ] 
