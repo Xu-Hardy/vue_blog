@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: '/assets/logo/tf.png'
-heroText: くどう
+heroText: 工藤新一のBlog
 tagline: 看见成长的自己
 actionText: ようこそ →
 actionLink: /start
