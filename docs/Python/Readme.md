@@ -2,6 +2,30 @@
 
 ![ss](./img/py.png)
 
-[第一章](./1.md)
+### 导论
+[Anaconda与数据科学]()
 
-[第二章](./2.md)
+[Python 基础]()
+
+[闭包]()
+
+[GC]()
+
+[]()
+
+[]()
+
+
+### coding 
+[数据分析]()
+
+[Python Web]()
+
+[Machine Learning]()
+
+[flask](./1.md)
+
+[Django](./2.md)
+
+### 参考
+- [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
