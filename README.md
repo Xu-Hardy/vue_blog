@@ -12,5 +12,5 @@ features:
   details: 不同时期的感悟随笔。
 - title: GEEK
   details: 折腾各种好玩的
-footer: MIT Licensed | Copyright © 2018-present
+footer: MIT Licensed | Copyright © 2017-present 
 ---
