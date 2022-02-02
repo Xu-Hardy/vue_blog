@@ -3,6 +3,7 @@ module.exports = {
           { text: 'Blog', link:'https://mengze-han.github.io/'},
           { text: 'HomePage', link:'/start'},
           { text: 'About', link: '/about'},
+          { text: '友链', link:'/link'},
           {
             text: '技术',
             items: [
