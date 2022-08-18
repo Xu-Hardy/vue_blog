@@ -29,3 +29,4 @@
 
 ### 参考
 - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+- [Scaler Topics](https://www.scaler.com/topics/python/what-is-python/)
