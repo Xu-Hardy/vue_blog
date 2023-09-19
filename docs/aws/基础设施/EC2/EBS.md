@@ -1,0 +1,3 @@
+如果您将 AMI 复制到新区域，则快照是完整的（非增量）副本。如果您加密未加密的备份快照或将其加密到新 KMS 密钥，则快照是完整（非增量）副本。后续的 AMI 复制操作会生成备份快照的增量副本。如果您想了解关于复制 AMI的更多内容，可以参考文档： https://docs.amazonaws.cn/AWSEC2/latest/UserGuide/CopyingAMIs.html#copy-ami-across-accounts   
+
+关于RDS mysql 目前不支持自动增量复制，您可以使用AWS CLI定时进行快照和跨区域复制来达到异地灾备的效果。您可以在这个链接找到更多关于RDS 异地增量备份的内容。https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CopySnapshot.html#USER_CopyDBSnapshot 
