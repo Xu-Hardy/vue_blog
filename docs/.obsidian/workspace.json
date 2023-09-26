@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d94dcd21956c9a7",
+        "id": "84d644600df68047",
         "type": "tabs",
         "children": [
           {
-            "id": "11f52254727cb267",
+            "id": "fe6d166e60a5e746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer/装机.md",
-                "mode": "preview",
+                "file": "aws/开发/SMTP port25为什么不能用.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer/装机.md",
+                "file": "aws/开发/SMTP port25为什么不能用.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer/装机.md",
+                "file": "aws/开发/SMTP port25为什么不能用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer/装机.md"
+                "file": "aws/开发/SMTP port25为什么不能用.md"
               }
             }
           },
@@ -164,7 +164,6 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -174,38 +173,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "privacy-glasses:Toggle Privacy Glasses": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "11f52254727cb267",
+  "active": "fe6d166e60a5e746",
   "lastOpenFiles": [
-    "about.md",
-    "dev/jupyter_matlab.md",
-    "Python 连接MySQL Aurora.md",
-    "开发/developer/C#/aws SDK.md",
-    "开发/developer/java/this 关键字.md",
-    "开发/developer/java/访问控制.md",
+    "aws/安全/误删除账户的admin user.md",
+    "aws/开发/SMTP port25为什么不能用.md",
+    "aws/安全/监听PHD.md",
+    "aws/开发/SDKs/Boto3开启debug模式.md",
+    "Excalidraw/Drawing 2023-09-26 20.31.51.excalidraw.md",
+    "aws/开发/Python从kafka读取数据写道AOS和S3.md",
+    "Excalidraw",
+    "aws/开发/SDKs/安装Python.md",
+    "dev/Python 配置代理与镜像站.md",
+    "aws/开发/Lambda 集成typescript报错.md",
+    "aws/数据库/DDB/DDB 查询聚合查询SDK.md",
+    "aws/开发/使用request.session自动签名多个signv4请求.md",
+    "aws/数据库/DDB",
+    "aws/大数据/ES/Java使用OpenSearch low level api连接.md",
+    "aws/大数据/ES/Java使用标准HTTP API 连接opensearch.md",
+    "aws/大数据/ES/OpenSearch的map 功能.md",
+    "aws/大数据/ES/asserts/Pasted image 20230926202620.png",
+    "aws/大数据/ES/asserts",
+    "aws/大数据/ES/Python 使用用户名密码访问Openseacrh.md",
+    "aws/开发/Python导出EC2信息.md",
+    "aws/存储/S3强制开启SSL.md",
+    "aws/存储/将流写到S3不落盘.md",
+    "aws/存储",
+    "aws/开发/Python 使用 CloudWatch Logs Insights 分析日志数据.md",
+    "aws/开发/boto3获取费用账单.md",
+    "aws/开发/Lambda + Events Bridge 定时启停EC2的脚本.md",
+    "aws/开发/mac安装maven.md",
+    "aws/大数据/ES/前端嵌入opensearch dashboard.md",
+    "aws/大数据/ES/报错排查/no handler found for rolesmapping.md",
+    "aws/大数据/ES/报错排查",
+    "dev/webstorm直接运行ts文件.md",
+    "dev/asserts/Pasted image 20230926201235.png",
+    "dev/asserts",
+    "aws/大数据/ES/ES7更改type.md",
     "未命名",
-    "任务和复盘/2022年计划.md",
-    "晨间流程.md",
-    "学习列表.md",
-    "要读的书.md",
-    "开发/linux and devops/linux/ssh 登录.md",
-    "开发/linux and devops/linux/SSH 代理.md",
-    "开发/linux and devops/linux/nginx.md",
-    "开发/linux and devops/linux/用户.md",
-    "开发/linux and devops/linux/安装图形化.md",
-    "开发/linux and devops/github action/action 配置blog CICD.md",
-    "开发/linux and devops/docker/docker 配置镜像加速器 - 阿里云.md",
-    "开发/linux and devops/docker/docker 安装.md",
-    "任务和复盘/生活/畅想未来/工作台改造计划.md",
-    "计算机常识/文档工具/docsify/docsify.md",
-    "开发/科学上网/squid搭建代理访问VPC资源.md",
-    "开发/科学上网/各种梯子.md",
-    "开发/科学上网/SSR.md",
-    "amazon web servies/存储/S3/静态网站托管.md",
-    "计算机常识/文档工具/dashy.md",
-    "计算机常识/文档工具/图标网.md",
     "计算机常识/软件/WechatIMG33.jpeg",
     "开发/电子书/第三只耳朵.pdf"
   ]
