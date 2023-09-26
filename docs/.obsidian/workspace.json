@@ -11,8 +11,13 @@
             "id": "11f52254727cb267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computer/装机.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer/装机.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer/装机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computer/装机.md"
+              }
             }
           },
           {
@@ -170,6 +179,8 @@
   },
   "active": "11f52254727cb267",
   "lastOpenFiles": [
+    "about.md",
+    "dev/jupyter_matlab.md",
     "Python 连接MySQL Aurora.md",
     "开发/developer/C#/aws SDK.md",
     "开发/developer/java/this 关键字.md",
@@ -195,8 +206,6 @@
     "amazon web servies/存储/S3/静态网站托管.md",
     "计算机常识/文档工具/dashy.md",
     "计算机常识/文档工具/图标网.md",
-    "开发/科学上网/clashx.md",
-    "开发/科学上网/openwrt.md",
     "计算机常识/软件/WechatIMG33.jpeg",
     "开发/电子书/第三只耳朵.pdf"
   ]
