@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "sunday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "todo/week/week-template",
+  "weeklyNoteFolder": "todo/week/",
+  "localeOverride": "system-default"
+}

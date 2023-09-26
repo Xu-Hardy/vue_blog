@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d6bcff46a734970b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d94dcd21956c9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f52254727cb267",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7472631c9fcc0caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a2cb9942624725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba28ea791275c41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c229c2e57345a56a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe785e9e1fd4b0db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "05eb3bb74541c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "c79bd2998fe34923",
+    "type": "split",
+    "children": [
+      {
+        "id": "87291bae7afbafd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "928e886c76acff07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2c803d89eb8eebdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e953391265ee8900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c832a3c6527db112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6095656eb419c5e2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "19ab205ddfdb50ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "privacy-glasses:Toggle Privacy Glasses": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "11f52254727cb267",
+  "lastOpenFiles": [
+    "Python 连接MySQL Aurora.md",
+    "开发/developer/C#/aws SDK.md",
+    "开发/developer/java/this 关键字.md",
+    "开发/developer/java/访问控制.md",
+    "未命名",
+    "任务和复盘/2022年计划.md",
+    "晨间流程.md",
+    "学习列表.md",
+    "要读的书.md",
+    "开发/linux and devops/linux/ssh 登录.md",
+    "开发/linux and devops/linux/SSH 代理.md",
+    "开发/linux and devops/linux/nginx.md",
+    "开发/linux and devops/linux/用户.md",
+    "开发/linux and devops/linux/安装图形化.md",
+    "开发/linux and devops/github action/action 配置blog CICD.md",
+    "开发/linux and devops/docker/docker 配置镜像加速器 - 阿里云.md",
+    "开发/linux and devops/docker/docker 安装.md",
+    "任务和复盘/生活/畅想未来/工作台改造计划.md",
+    "计算机常识/文档工具/docsify/docsify.md",
+    "开发/科学上网/squid搭建代理访问VPC资源.md",
+    "开发/科学上网/各种梯子.md",
+    "开发/科学上网/SSR.md",
+    "amazon web servies/存储/S3/静态网站托管.md",
+    "计算机常识/文档工具/dashy.md",
+    "计算机常识/文档工具/图标网.md",
+    "开发/科学上网/clashx.md",
+    "开发/科学上网/openwrt.md",
+    "计算机常识/软件/WechatIMG33.jpeg",
+    "开发/电子书/第三只耳朵.pdf"
+  ]
+}
