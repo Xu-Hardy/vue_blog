@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "obsidian-advanced-uri",
   "better-fn",
   "obsidian-auto-link-title",
   "calendar",
@@ -18,5 +17,13 @@
   "obsidian-outliner",
   "markdown-prettifier",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "media-extended",
+  "mx-bili-plugin",
+  "obsidian-memos",
+  "obsidian-to-anki-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-emoji-toolbar",
+  "dataview",
+  "obsidian-advanced-uri"
 ]
