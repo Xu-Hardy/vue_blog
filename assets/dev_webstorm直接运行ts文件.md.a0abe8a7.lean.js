@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a as t}from"./app.58320140.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"dev/webstorm直接运行ts文件.md"}'),n={name:"dev/webstorm直接运行ts文件.md"},o=t("",5),p=[o];function l(r,c,i,_,d,C){return e(),a("div",null,p)}const D=s(n,[["render",l]]);export{y as __pageData,D as default};

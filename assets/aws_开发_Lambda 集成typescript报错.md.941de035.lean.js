@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as e,a}from"./app.58320140.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/开发/Lambda 集成typescript报错.md"}'),t={name:"aws/开发/Lambda 集成typescript报错.md"},p=a("",17),o=[p];function l(i,c,d,r,y,m){return e(),n("div",null,o)}const b=s(t,[["render",l]]);export{A as __pageData,b as default};

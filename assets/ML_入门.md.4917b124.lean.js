@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,a as t}from"./app.58320140.js";const l=JSON.parse('{"title":"机器学习入门 -- 常用算法介绍","description":"","frontmatter":{},"headers":[],"relativePath":"ML/入门.md"}'),s={name:"ML/入门.md"},r=t("",22),o=[r];function p(g,d,n,h,m,u){return e(),i("div",null,o)}const _=a(s,[["render",p]]);export{l as __pageData,_ as default};

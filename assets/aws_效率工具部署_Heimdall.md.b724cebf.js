@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./app.58320140.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/效率工具部署/Heimdall.md"}'),r={name:"aws/效率工具部署/Heimdall.md"};function s(o,c,n,d,i,l){return t(),a("div")}const _=e(r,[["render",s]]);export{p as __pageData,_ as default};

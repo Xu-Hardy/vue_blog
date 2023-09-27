@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.58320140.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/效率工具部署/Portainer.md"}'),r={name:"aws/效率工具部署/Portainer.md"};function o(n,s,c,i,p,_){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

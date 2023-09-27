@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as p,a as t}from"./app.58320140.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/安全/误删除账户的admin user.md"}'),s={name:"aws/安全/误删除账户的admin user.md"},_=t("",13),n=[_];function o(r,c,i,d,m,l){return p(),a("div",null,n)}const h=e(s,[["render",o]]);export{u as __pageData,h as default};

@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,a as o}from"./app.919835fa.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/旧版本python安装.md"}'),p={name:"python/旧版本python安装.md"},l=o("",9),t=[l];function e(r,c,y,i,C,h){return a(),s("div",null,t)}const _=n(p,[["render",e]]);export{A as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a as s}from"./app.58320140.js";const u=JSON.parse('{"title":"jupyter notebook支持matlab语法","description":"","frontmatter":{},"headers":[],"relativePath":"dev/jupyter_matlab.md"}'),p={name:"dev/jupyter_matlab.md"},n=s("",12),o=[n];function l(r,i,c,_,d,m){return e(),t("div",null,o)}const b=a(p,[["render",l]]);export{u as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.58320140.js";const u=JSON.parse('{"title":"修电脑的零零碎碎","description":"","frontmatter":{},"headers":[],"relativePath":"computer/Readme.md"}'),o={name:"computer/Readme.md"},_=r("",5),c=[_];function d(s,n,p,i,m,h){return t(),a("div",null,c)}const l=e(o,[["render",d]]);export{u as __pageData,l as default};

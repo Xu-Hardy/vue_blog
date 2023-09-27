@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.58320140.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/效率工具部署/netdata.md"}'),n={name:"aws/效率工具部署/netdata.md"};function r(s,o,c,d,p,_){return a(),e("div")}const f=t(n,[["render",r]]);export{m as __pageData,f as default};

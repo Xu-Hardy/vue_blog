@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.58320140.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/数据库/neptune.md"}'),n={name:"aws/数据库/neptune.md"};function r(s,o,c,p,_,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

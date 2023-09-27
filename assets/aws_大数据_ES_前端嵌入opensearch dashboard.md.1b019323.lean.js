@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.58320140.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"aws/大数据/ES/前端嵌入opensearch dashboard.md"}'),o={name:"aws/大数据/ES/前端嵌入opensearch dashboard.md"},p=l("",4),t=[p];function e(c,r,F,D,y,i){return n(),a("div",null,t)}const m=s(o,[["render",e]]);export{d as __pageData,m as default};

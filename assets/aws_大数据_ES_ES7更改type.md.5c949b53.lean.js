@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.58320140.js";const i=JSON.parse('{"title":"ES7更改type","description":"","frontmatter":{},"headers":[],"relativePath":"aws/大数据/ES/ES7更改type.md"}'),l={name:"aws/大数据/ES/ES7更改type.md"},o=p("",9),e=[o];function t(c,D,r,y,F,C){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};
